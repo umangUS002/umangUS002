@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=32CD32&center=true&width=450&lines=Greetings!;I'm+a+Software+Developer;Welcome+to+my+profile!)
+
 # 👋 Hi, I'm Umang Srivastava  
 
 🎓 B.Tech in Electrical & Electronics Engineering @ BIT Mesra (2023–2027)  
@@ -41,8 +43,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight) 
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight) 
 
 ---
 
