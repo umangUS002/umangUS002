@@ -10,7 +10,7 @@
 
 ## 📌 About Me  
 - 🔭 Building scalable projects: **AI SaaS Platform, Quick Chat, Leo Club Website**  
-- 💻 Strong in **DSA (400+ problems solved on LeetCode & GFG)**  
+- 💻 Learning **DSA (400+ problems solved on LeetCode & GFG)**  
 - 🌐 Passionate about **Web Development, APIs, Cloud, and AI Applications**  
 - 🚀 Experienced in **leading teams, hackathons & large-scale event management**  
 
@@ -50,14 +50,18 @@
 ### 🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
 
 ### 🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
+
+### 🔹 [Car Rental Platform](https://car-rental-seven-wheat.vercel.app) | *Vehicle Booking Platform*  
+
+### 🔹 [AI-Integrated Blog Website](https://quick-blogg.vercel.app/) | *Content Creation & Publishing Platform*  
+
+### 🔹 [Job Search Application](https://job-search-five-chi.vercel.app/) | *Real-Time Job Finder Platform* 
 --- 
 
 ---
 
 ## 📊 GitHub Stats  
-![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight)  
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight)  
 
