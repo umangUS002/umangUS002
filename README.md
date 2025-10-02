@@ -4,6 +4,7 @@
 💡 MERN Stack Developer | AI & SaaS Enthusiast | Problem Solver  
 🌱 Currently exploring **AI integrations, scalable full-stack apps, and system design**  
 🏆 SIH Qualifier | G.P. Birla Scholar | Leo Club General Secretary  
+![Profile Views](https://komarev.com/ghpvc/?username=umangUS002&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
