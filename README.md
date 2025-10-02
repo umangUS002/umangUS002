@@ -4,15 +4,8 @@
 💡 MERN Stack Developer | AI & SaaS Enthusiast | Problem Solver  
 🌱 Currently exploring **AI integrations, scalable full-stack apps, and system design**  
 🏆 SIH Qualifier | G.P. Birla Scholar | Leo Club General Secretary  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=umangUS002&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 📌 About Me  
-- 🔭 Building scalable projects: **AI SaaS Platform, Quick Chat, Leo Club Website**  
-- 💻 Learning **DSA (400+ problems solved on LeetCode & GFG)**  
-- 🌐 Passionate about **Web Development, APIs, Cloud, and AI Applications**  
-- 🚀 Experienced in **leading teams, hackathons & large-scale event management**  
 
 ---
 
@@ -35,35 +28,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)  
 
 ---
-
-## 📚 Education  
-🎓 **Birla Institute of Technology, Mesra** – B.Tech (EEE), CGPA: **8.93/10** (2023–2027)  
-🏫 **Chinmaya Vidyalaya, Bokaro** – Class XII, **91.8%** (2022)  
-🏫 **S.P Public School, Bokaro** – Class X, **95.8%** (2021)  
-
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🔹 [Leo Club Website](https://www.leoclubbitmesra.in/) | *Dynamic Event & Initiative Platform*  
-
 ### 🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
-
 ### 🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
-
 ### 🔹 [Car Rental Platform](https://car-rental-seven-wheat.vercel.app) | *Vehicle Booking Platform*  
-
 ### 🔹 [AI-Integrated Blog Website](https://quick-blogg.vercel.app/) | *Content Creation & Publishing Platform*  
-
 ### 🔹 [Job Search Application](https://job-search-five-chi.vercel.app/) | *Real-Time Job Finder Platform* 
 --- 
 
 ---
 
 ## 📊 GitHub Stats  
-![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight)  
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight)
 
 ---
 
