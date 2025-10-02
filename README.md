@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=25&color=32CD32&center=true&width=450&lines=Greetings+Programmers!;Myself+Umang+Srivastava...;Welcome+to+my+profile!)
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=25&color=32CD32&center=true&width=450&lines=Greetings+Programmers!;Myself+Umang+Srivastava...;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
 
 🎓 **B.Tech EEE | 5th Semester | BIT Mesra (2023–2027)**  
 💡 MERN Stack Developer | AI & SaaS Enthusiast | Problem Solver  
@@ -10,7 +13,6 @@
 
 
 ## 🛠 Tech Stack  
-
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&logoWidth=20) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=20) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white&logoWidth=20)  
 
@@ -29,7 +31,6 @@
 
 
 ## 🚀 Featured Projects  
-
 ### 🔹 [Leo Club Website](https://www.leoclubbitmesra.in/) | *Dynamic Event & Initiative Platform*  
 ### 🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
 ### 🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
@@ -39,12 +40,31 @@
 
 
 ## 📊 GitHub Stats  
-![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight) 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight" alt="Umang's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umang-srivastava-339b131b6/)  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/umang-us/)  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:umang1gb@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/umangUS002)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umang-srivastava-339b131b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/umang-us/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white&logoWidth=20" alt="LeetCode" />
+  </a>
+  <a href="mailto:umang1gb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
+  </a>
+  <a href="https://github.com/umangUS002">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
+  </a>
+</p>
+ 
 
 🌱 “Growing through challenges, building through curiosity.”
