@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=32CD32&center=true&width=450&lines=Greetings!;I'm+a+Software+Developer;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=32CD32&center=true&width=450&lines=Greetings Programmers! 🫡;Myself+Umang+Srivastava+...;Welcome+to+my+profile!)
 
 # 👋 Hi, I'm Umang Srivastava  
 
