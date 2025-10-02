@@ -51,7 +51,7 @@
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/umang-srivastava-339b131b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
