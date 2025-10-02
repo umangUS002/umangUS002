@@ -31,12 +31,12 @@
 
 
 ## 🚀 Featured Projects  
-### 🔹 [Leo Club Website](https://www.leoclubbitmesra.in/) | *Dynamic Event & Initiative Platform*  
-### 🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
-### 🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
-### 🔹 [Car Rental Platform](https://car-rental-seven-wheat.vercel.app) | *Vehicle Booking Platform*  
-### 🔹 [AI-Integrated Blog Website](https://quick-blogg.vercel.app/) | *Content Creation & Publishing Platform*  
-### 🔹 [Job Search Application](https://job-search-five-chi.vercel.app/) | *Real-Time Job Finder Platform* 
+🔹 [Leo Club Website](https://www.leoclubbitmesra.in/) | *Dynamic Event & Initiative Platform*  
+🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
+🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
+🔹 [Car Rental Platform](https://car-rental-seven-wheat.vercel.app) | *Vehicle Booking Platform*  
+🔹 [AI-Integrated Blog Website](https://quick-blogg.vercel.app/) | *Content Creation & Publishing Platform*  
+🔹 [Job Search Application](https://job-search-five-chi.vercel.app/) | *Real-Time Job Finder Platform* 
 
 
 ## 📊 GitHub Stats  
