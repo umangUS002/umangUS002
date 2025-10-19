@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=25&color=32CD32&center=true&width=450&lines=Greetings+Programmers!;Myself+Umang+Srivastava...;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=35&color=48dbfb&center=true&width=550&lines=Greetings+Programmers!;Myself+Umang+Srivastava...;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 
