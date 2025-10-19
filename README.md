@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=35&color=48dbfb&center=true&width=550&lines=Greetings+Programmers!;Myself+Umang+Srivastava...;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/umangUS002/umangUS002/main/head.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&size=36&duration=6000&color=00BFFF&center=true&width=650&height=100&lines=Greetings+Programmers!;Myself+Umang+Srivastava...;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
 🎓 **B.Tech EEE | 5th Semester | BIT Mesra (2023–2027)**  
 💡 MERN Stack Developer | AI & SaaS Enthusiast | Problem Solver  
