@@ -62,6 +62,7 @@
 
 ## 🚀 Featured Projects  
 🔹 [Leo Club Website](https://www.leoclubbitmesra.in/) | *Dynamic Event & Initiative Platform*  
+🔹 [Book Cart](https://book-cart-eosin.vercel.app/) | *MERN-Based Intelligent Recommendation System and Sentiment Analysis*  
 🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
 🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
 🔹 [Car Rental Platform](https://car-rental-seven-wheat.vercel.app) | *Vehicle Booking Platform*  
@@ -73,16 +74,14 @@
 </p>
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight" alt="Umang's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangUS002&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:8A2BE2&height=2&section=footer" width="100%">
+  <img src="https://streak-stats.demolab.com?user=umangUS002&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌐 Connect With Me  
