@@ -73,16 +73,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:8A2BE2&height=2&section=footer" width="100%">
 </p>
 
-## 📊 GitHub Stats  
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangUS002&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umangUS002&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umangUS002" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umangUS002&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangUS002&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🌐 Connect With Me  
 
