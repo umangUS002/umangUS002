@@ -12,7 +12,7 @@
       <h2>🎓 B.Tech EEE | BIT Mesra (2023–2027)</h2>
       <p>💡 MERN Stack Developer | AI & SaaS Enthusiast | Problem Solver</p>
       <p>🌱 Currently exploring <b>AI integrations, scalable full-stack apps, and system design</b></p>
-      <p>🏆 SIH Qualifier | G.P. Birla Scholar | Leo Club General Secretary</p>
+      <p>🏆 SIH Qualifier | G.P. Birla Scholar | Leo Club Joint President</p>
     </td>
     <td width="50%">
       <img src="https://raw.githubusercontent.com/umangUS002/umangUS002/main/first.gif" alt="Banner" width="100%">
@@ -61,13 +61,14 @@
 </p>
 
 ## 🚀 Featured Projects  
+🔹 [Job Search Application](https://job-search-five-chi.vercel.app/) | *Real-Time Job Finder Platform*
 🔹 [Leo Club Website](https://www.leoclubbitmesra.in/) | *Dynamic Event & Initiative Platform*  
-🔹 [Book Cart](https://book-cart-eosin.vercel.app/) | *MERN-Based Intelligent Recommendation System and Sentiment Analysis*  
+🔹 [Book Cart](https://book-store-docker.vercel.app/) | *MERN-Based Intelligent Recommendation System and Sentiment Analysis*  
 🔹 [Quick Chat](https://quick-chat-sepia.vercel.app) | *Full-Stack Real-Time Chat App*  
 🔹 [AI SaaS Platform](https://ai-saas-app-wine-phi.vercel.app/) | *Multi-Tool AI Services*  
 🔹 [Car Rental Platform](https://car-rental-seven-wheat.vercel.app) | *Vehicle Booking Platform*  
 🔹 [AI-Integrated Blog Website](https://quick-blogg.vercel.app/) | *Content Creation & Publishing Platform*  
-🔹 [Job Search Application](https://job-search-five-chi.vercel.app/) | *Real-Time Job Finder Platform* 
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:8A2BE2&height=2&section=footer" width="100%">
